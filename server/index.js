@@ -6,7 +6,7 @@ const app = express();
 const buildDir = path.join(__dirname, '../build');
 console.log('Using files in ' + buildDir);
 
-// const path = require('path')s;sass
+// const path = require('path')s;sasssss
 
 module.exports = {
   //...
